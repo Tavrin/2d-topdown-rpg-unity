@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b8440ba07d45f7419bd9d6696e7cfef, type: 3}
+  m_Name: Baton
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7890777929891041900, guid: cd1b7651f912f7647962cd7af8c79abb, type: 3}
+  type: 0
+  description: A simple metal stick
+  attackBonus: 4
+  defenceBonus: 0
